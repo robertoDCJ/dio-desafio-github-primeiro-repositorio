@@ -1,2 +1,4 @@
-Link para download do Git:
+Link para download do Git:https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Já o GitHub é a plataforma que usamos para hospedar nossos códigos/projetos na nuvem.
